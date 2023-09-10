@@ -6,4 +6,4 @@ able to program in my free time and have been taking full liberty of it
 
 - Email: me@mbkv.io
 - LinkedIn: https://linkedin.com/in/mbkv
-- Resume: https://resume.mbkv.io
+- Site: https://mbkv.io
