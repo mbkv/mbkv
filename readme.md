@@ -1,4 +1,4 @@
-Frontend web developer and hobbyist game dev
+Frontend webdev and hobbyist game dev
 
 ## Contact Me
 
